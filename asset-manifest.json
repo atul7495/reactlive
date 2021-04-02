@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://atul7495.github.io/reactlive/static/css/main.ea1455b2.chunk.css",
+    "main.js": "https://atul7495.github.io/reactlive/static/js/main.99f979bc.chunk.js",
+    "main.js.map": "https://atul7495.github.io/reactlive/static/js/main.99f979bc.chunk.js.map",
+    "runtime-main.js": "https://atul7495.github.io/reactlive/static/js/runtime-main.c3c0dcb4.js",
+    "runtime-main.js.map": "https://atul7495.github.io/reactlive/static/js/runtime-main.c3c0dcb4.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "https://atul7495.github.io/reactlive/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.01ca10c6.chunk.js": "https://atul7495.github.io/reactlive/static/js/2.01ca10c6.chunk.js",
+    "static/js/2.01ca10c6.chunk.js.map": "https://atul7495.github.io/reactlive/static/js/2.01ca10c6.chunk.js.map",
+    "static/js/3.d83846ac.chunk.js": "https://atul7495.github.io/reactlive/static/js/3.d83846ac.chunk.js",
+    "static/js/3.d83846ac.chunk.js.map": "https://atul7495.github.io/reactlive/static/js/3.d83846ac.chunk.js.map",
+    "index.html": "https://atul7495.github.io/reactlive/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "https://atul7495.github.io/reactlive/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "https://atul7495.github.io/reactlive/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.01ca10c6.chunk.js.LICENSE.txt": "https://atul7495.github.io/reactlive/static/js/2.01ca10c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3c0dcb4.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.01ca10c6.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.99f979bc.chunk.js"
+  ]
+}
